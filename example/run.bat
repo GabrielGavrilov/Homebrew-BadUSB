@@ -1,1 +1,1 @@
-BadUSB/java -jar BadUSB.jar
+java -jar BadUSB.jar
