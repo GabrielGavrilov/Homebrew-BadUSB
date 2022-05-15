@@ -15,7 +15,7 @@ public class main {
             usb.executeTaskScript(input);
         }
         catch(Exception e) {
-
+            System.out.println(e);
         }
     }
 
