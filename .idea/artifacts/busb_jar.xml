@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="busb:jar">
+    <output-path>$PROJECT_DIR$/../../../output</output-path>
+    <root id="archive" name="busb.jar">
+      <element id="module-output" name="Homebrew-BadUSB" />
+    </root>
+  </artifact>
+</component>

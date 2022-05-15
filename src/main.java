@@ -1,4 +1,3 @@
-import java.awt.*;
 import java.util.Scanner;
 
 public class main {
@@ -6,7 +5,7 @@ public class main {
 
         try {
             Scanner scan = new Scanner(System.in);
-            BadUSB usb = new BadUSB();
+            busb usb = new busb();
 
             String input;
 

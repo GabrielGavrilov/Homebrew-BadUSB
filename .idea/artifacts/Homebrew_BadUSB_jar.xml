@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Homebrew-BadUSB:jar">
-    <output-path>$PROJECT_DIR$/../../output/</output-path>
-    <root id="archive" name="Homebrew-BadUSB.jar">
-      <element id="module-output" name="Homebrew-BadUSB" />
-    </root>
-  </artifact>
-</component>
